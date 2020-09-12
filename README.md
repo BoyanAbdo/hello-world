@@ -1,7 +1,6 @@
 # hello-world
 
-Hi Good Fellows!
+Hi Git Universe!
 
-My name is Boyan Abdo and I started programming in Software University, Sofia, Bulgaria last four months.
-...
+You can call me Boyan. I just started programming in the Software University, Sofia, Bulgaria (2016).
 
